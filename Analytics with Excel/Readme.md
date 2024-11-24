@@ -9,10 +9,11 @@ Most of the company's data resides in Excel, scattered across multiple ERP tools
 
 ## Project Highlights
 1. **Dashboard**
-   - **Screenshot:** `Add screenshot here`
+![HR Analytics](link)
+
    - **Link to Data Source:** `Add link here`
 
-2. **Approach**
+3. **Approach**
    - Extracted data from multiple tools such as:
      - Payroll systems
      - HR dashboards
@@ -21,7 +22,7 @@ Most of the company's data resides in Excel, scattered across multiple ERP tools
    - Summarized data with **Pivot Tables**.
    - Created measures and insights using **DAX**.
 
-3. **Features**
+4. **Features**
    - Key Performance Indicators (KPIs)
    - Trend Lines
    - Data Range Visualizations
