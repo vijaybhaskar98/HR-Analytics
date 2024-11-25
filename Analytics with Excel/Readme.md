@@ -11,7 +11,7 @@ Most of the company's data resides in Excel, scattered across multiple ERP tools
 
 ![HR Analytics](https://github.com/vijaybhaskar98/HR-Analytics/blob/main/Analytics%20with%20Excel/Supporting%20files/Dashboard.png)
 
-   - **Link to Data Source:** `Add link here`
+   - **Link to Data Source:** [Harly_Dasan DataSource File](https://github.com/vijaybhaskar98/HR-Analytics/blob/main/Analytics%20with%20Excel/Supporting%20files/Harly%20Dasan_DB.xlsx)
 
 3. **Approach**
    - Extracted data from multiple tools such as:
