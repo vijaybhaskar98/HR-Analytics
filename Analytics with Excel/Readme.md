@@ -8,8 +8,8 @@ Most of the company's data resides in Excel, scattered across multiple ERP tools
 ---
 
 ## Project Highlights
-1. **Dashboard**
-![HR Analytics](Analytics with Excel/Supporting files/Dashboard.png)
+
+![HR Analytics](https://github.com/vijaybhaskar98/HR-Analytics/blob/main/Analytics%20with%20Excel/Supporting%20files/Dashboard.png)
 
    - **Link to Data Source:** `Add link here`
 
